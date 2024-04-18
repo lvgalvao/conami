@@ -1,0 +1,26 @@
+SOLICITACAO,Cliente,Nº do Cliente,Descrição dos Serviços,Comprador,Resp. Prop.,Serviços
+CNM 001/24,Vale S.A,300-010,Solda em tubulação PEAD,JOÃO,CRISTIANO,1000
+CNM 002/24,Samarco S.A,1000/ES,Montagem de Andaime,PAULO,CRISTIANO,2000
+CNM 003/24,Mineração Morro do IPÊ,001/24,Serviços e fabricação especializada,MANOEL,LUCAS,10000
+CNM 004/24,Arcelor Mittal Tubarão,03-24-ES,Limpezas dos Fornos,BEATRIZ,CRISTIANO,1200
+CNM 005/24,Suzano Celulose S.A,300-100,Integridade Estrutural,CLÁUDIO,LUCAS,500
+CNM 006/24,Porto Sudeste do Brasil ,010-6,Montagem PEAD,ANTÔNIO,CRISTIANO,2300
+CNM 007/24,EDP,323-24,Revitalização estrutrural,MARCOS,CRISTIANO,4000
+CNM 008/24,Estaleiro Jurong,T40-10,Isolamento térmico,VANESSA,LUCAS,1350
+CNM 009/24,Petrobrás,1000-10,Construção civil,GUSTAVO,LUCAS,7800
+CNM 010/24,Ilhoist,001-20-24,Construção civil,ANDRÉ,PEDRO,2200
+CNM 011/24,Vale S.A,300-011,Mecânica de equipamentos,JOÃO,PEDRO,4300
+CNM 012/24,Samarco S.A,1002/ES,manutenção civil,PAULO,CRISTIANO,3100
+CNM 013/24,Mineração Morro do IPÊ,002/24,Serviços de andaimes ,MANOEL,PEDRO,5000
+CNM 014/24,Arcelor Mittal Tubarão,04-24-ES,Tratamento anticorrosivo de Reservatório,BEATRIZ,LUCAS,2000
+CNM 015/24,Suzano Celulose S.A,400-100,Galpão industrial,CLÁUDIO,LUCAS,9000
+CNM 016/24,Porto Sudeste do Brasil ,010-7,Serviços de melhorias mecãnicas,ANTÔNIO,CRISTIANO,1200
+CNM 017/24,EDP,325-24,Tratamento anticorrosivo de Torres Metálicas,MARCOS,LUCAS,500
+CNM 018/24,Estaleiro Jurong,T40-20,Reparos tubulações PEAD Sistema Combate Incendio,VANESSA,PEDRO,2300
+CNM 019/24,Petrobrás,1000-20,Obras de infraestrutura,GUSTAVO,PEDRO,4000
+CNM 020/24,Ilhoist,002-20-24,Adequações diversas,ANDRÉ,PEDRO,1350
+CNM 021/24,Vale S.A,300-012,Serviços elétricos,JOÃO,LUCAS,500
+CNM 022/24,Samarco S.A,1003/ES,Revesimento em UHMW,PAULO,CRISTIANO,2300
+CNM 023/24,Mineração Morro do IPÊ,003/24,Serviços de soldas,MANOEL,CRISTIANO,4000
+CNM 024/24,Arcelor Mittal Tubarão,05-24-ES,Montagem mecânica,BEATRIZ,PEDRO,1350
+CNM 025/24,Suzano Celulose S.A,500-100,Montagem mecânica,CLÁUDIO,PEDRO,1350

@@ -1,0 +1,26 @@
+(SOLICITAÇÃO DE ORÇAMENTO)",Cliente,Nº do Cliente,Descrição,Data Recebim.,Data de Entrega,Solicitante,Resp Prop Comercial,Data envio,Ano,Estado 
+CNM 001/24,Vale S.A,300-010,Solda em tubulação PEAD,1/3/2024,1/6/2024,JOÃO,CRISTIANO,1/3/2024,2024,ES
+CNM 002/24,Samarco S.A,1000/ES,Montagem de Andaime,1/4/2024,1/7/2024,PAULO,CRISTIANO,1/4/2024,2024,ES
+CNM 003/24,Mineração Morro do IPÊ,001/24,Serviços e fabricação especializada,1/12/2024,1/15/2024,MANOEL,LUCAS,1/12/2024,2024,GO
+CNM 004/24,Arcelor Mittal Tubarão,03-24-ES,Limpezas dos Fornos,1/20/2024,1/23/2024,BEATRIZ,CRISTIANO,1/20/2024,2024,ES
+CNM 005/24,Suzano Celulose S.A,300-100,Integridade Estrutural,2/1/2024,2/4/2024,CLÁUDIO,LUCAS,2/1/2024,2024,SP
+CNM 006/24,Porto Sudeste do Brasil ,010-6,Montagem PEAD,2/13/2024,2/16/2024,ANTÔNIO,CRISTIANO,2/13/2024,2024,RJ
+CNM 007/24,EDP,323-24,Revitalização estrutrural,2/24/2024,2/27/2024,MARCOS,CRISTIANO,2/24/2024,2024,ES
+CNM 008/24,Estaleiro Jurong,,Isolamento térmico,2/28/2024,3/2/2024,VANESSA,LUCAS,2/28/2024,2024,ES
+CNM 009/24,Petrobrás,1000-10,Construção civil,3/7/2024,3/10/2024,GUSTAVO,LUCAS,3/7/2024,2024,ES
+CNM 010/24,Ilhoist,001-20-24,Construção civil,3/11/2024,3/14/2024,ANDRÉ,PEDRO,3/11/2024,2024,MG
+CNM 011/24,Vale S.A,300-011,Mecânica de equipamentos,3/12/2024,3/15/2024,JOÃO,PEDRO,3/12/2024,2024,ES
+CNM 012/24,Samarco S.A,1002/ES,manutenção civil,3/18/2024,3/21/2024,PAULO,CRISTIANO,3/18/2024,2024,ES
+CNM 013/24,Mineração Morro do IPÊ,002/24,Serviços de andaimes ,3/20/2024,3/23/2024,MANOEL,PEDRO,3/20/2024,2024,GO
+CNM 014/24,Arcelor Mittal Tubarão,04-24-ES,Tratamento anticorrosivo de Reservatório,3/21/2024,3/24/2024,BEATRIZ,LUCAS,3/21/2024,2024,ES
+CNM 015/24,Suzano Celulose S.A,400-100,Galpão industrial,3/23/2024,3/26/2024,CLÁUDIO,LUCAS,3/23/2024,2024,SP
+CNM 016/24,Porto Sudeste do Brasil ,010-7,Serviços de melhorias mecãnicas,3/24/2024,3/27/2024,ANTÔNIO,CRISTIANO,3/24/2024,2024,RJ
+CNM 017/24,EDP,325-24,Tratamento anticorrosivo de Torres Metálicas,3/24/2024,3/27/2024,MARCOS,LUCAS,3/24/2024,2024,ES
+CNM 018/24,Estaleiro Jurong,,Reparos tubulações PEAD Sistema Combate Incendio,3/27/2024,3/30/2024,VANESSA,PEDRO,3/27/2024,2024,ES
+CNM 019/24,Petrobrás,1000-20,Obras de infraestrutura,3/28/2024,3/31/2024,GUSTAVO,PEDRO,3/28/2024,2024,ES
+CNM 020/24,Ilhoist,002-20-24,Adequações diversas,4/1/2024,4/4/2024,ANDRÉ,PEDRO,4/1/2024,2024,MG
+CNM 021/24,Vale S.A,300-012,Serviços elétricos,4/2/2024,4/5/2024,JOÃO,LUCAS,4/2/2024,2024,ES
+CNM 022/24,Samarco S.A,1003/ES,Revesimento em UHMW,4/6/2024,4/9/2024,PAULO,CRISTIANO,4/6/2024,2024,ES
+CNM 023/24,Mineração Morro do IPÊ,003/24,Serviços de soldas,4/6/2024,4/9/2024,MANOEL,CRISTIANO,4/6/2024,2024,GO
+CNM 024/24,Arcelor Mittal Tubarão,05-24-ES,Montagem mecânica,4/7/2024,4/10/2024,BEATRIZ,PEDRO,4/7/2024,2024,ES
+CNM 025/24,Suzano Celulose S.A,500-100,Montagem mecânica,4/10/2024,4/13/2024,CLÁUDIO,PEDRO,4/10/2024,2024,SP
